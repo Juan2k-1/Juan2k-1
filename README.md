@@ -1,5 +1,5 @@
 ## Hi there 👋
-I define myself as a technology enthusiast eager to learn from my professional field and expand my knowledge. I have experience in programming with various languages, such as Java, C++, C#, as well as working with different database management systems like PostgreSQL, OracleDB, or MongoDB, and tools and frameworks such as Spring, React Native, Bootstrap, and Thymeleaf.
+I define myself as a technology enthusiast eager to learn from my professional field and expand my knowledge. I have experience in programming with various languages, such as Java, Python, C++, C#, as well as working with different database management systems like PostgreSQL, OracleDB, or MongoDB, and tools and frameworks such as Spring, React Native, Bootstrap, and Thymeleaf.
 
 I would like to find a company where I can develop my potential as a professional, encounter new challenges, and grow both professionally and personally.
 
